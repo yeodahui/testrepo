@@ -2,7 +2,6 @@
 🚗this is test repository
 
 ## test3
-### test3
 
 * hello world
 * hello world
@@ -12,7 +11,10 @@
 
 ---
 
+### test3
 > how about this
 ```html
 this is codeblock
 ```
+
+* 이 레파지토리는 블라블라...
